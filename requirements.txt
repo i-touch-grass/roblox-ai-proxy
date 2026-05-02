@@ -1,0 +1,3 @@
+flask
+cerebras_cloud_sdk
+gunicorn
